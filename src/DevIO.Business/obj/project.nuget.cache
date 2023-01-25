@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "brkBTPJWELPdqF1+LnbggxaDl2+KxPt6dgYdUNWHG3KoFZwNUTXCgP6Nph9bxbiKJC8yIBe3K7IBO6BqxrOXDg==",
+  "dgSpecHash": "XeO0QxirQpoJ/GPzYMcFaugiqrv/0uLxwrcwhq1SILbwOCVgeJPz7wPMoKD1EGOJRtk7QtB1fa/12pWXsFqs/A==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "projectFilePath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Business\\EnterpriseStore.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
   ],

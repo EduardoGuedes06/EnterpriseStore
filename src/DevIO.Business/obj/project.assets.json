@@ -52,9 +52,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Business\\DevIO.Business.csproj",
-      "projectName": "DevIO.Business",
-      "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectUniqueName": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Business\\EnterpriseStore.Service.csproj",
+      "projectName": "EnterpriseStore.Service",
+      "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Business\\EnterpriseStore.Service.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
       "outputPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Business\\obj\\",
       "projectStyle": "PackageReference",

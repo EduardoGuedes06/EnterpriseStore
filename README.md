@@ -23,11 +23,21 @@ Para front-end:
 	-Para edição de texto e a programação em si foi utilizada a IDE Visual Studio; 
 	
  # Banco de dados:
+
 	user : MysqlRoot
-	key : Mudar#123 
+	key : Mudar#123
+  -Arquivo para gerar o banco local caso nessesario na Documentação; 
 
 # Contato: 
 	Eduardo Guedes
 	 eduardoguedeslibra@gmail.com
 	 www.linkedin.com/in/eduardo-guedes-867749219/
 
+
+# Perfils com nivel de acesso
+
+    edu@gmail.com - Edu#123 : Visualização
+
+    store@gmail.com - Store#123 : Visualização e Postagem de produto
+
+    admin@gmail.com - Admin#123 : Acesso ao CRUD completo

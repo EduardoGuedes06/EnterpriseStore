@@ -748,17 +748,17 @@
           }
         }
       },
-      "DevIO.Business/1.0.0": {
+      "EnterpriseStore.Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "FluentValidation": "10.3.6"
         },
         "compile": {
-          "bin/placeholder/DevIO.Business.dll": {}
+          "bin/placeholder/EnterpriseStore.Service.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DevIO.Business.dll": {}
+          "bin/placeholder/EnterpriseStore.Service.dll": {}
         }
       }
     }
@@ -1946,15 +1946,15 @@
         "version.txt"
       ]
     },
-    "DevIO.Business/1.0.0": {
+    "EnterpriseStore.Service/1.0.0": {
       "type": "project",
-      "path": "../DevIO.Business/DevIO.Business.csproj",
-      "msbuildProject": "../DevIO.Business/DevIO.Business.csproj"
+      "path": "../DevIO.Business/EnterpriseStore.Service.csproj",
+      "msbuildProject": "../DevIO.Business/EnterpriseStore.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "DevIO.Business >= 1.0.0",
+      "EnterpriseStore.Service >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Relational >= 6.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.3"
@@ -1967,9 +1967,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Data\\DevIO.Data.csproj",
-      "projectName": "DevIO.Data",
-      "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectUniqueName": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Data\\EnterpriseStore.Data.csproj",
+      "projectName": "EnterpriseStore.Data",
+      "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Data\\EnterpriseStore.Data.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
       "outputPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Data\\obj\\",
       "projectStyle": "PackageReference",
@@ -1992,8 +1992,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Business\\DevIO.Business.csproj": {
-              "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Business\\DevIO.Business.csproj"
+            "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Business\\EnterpriseStore.Service.csproj": {
+              "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.Business\\EnterpriseStore.Service.csproj"
             }
           }
         }

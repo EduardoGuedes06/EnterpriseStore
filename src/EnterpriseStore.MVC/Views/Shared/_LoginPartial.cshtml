@@ -1,0 +1,44 @@
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<ul class="navbar-nav">
+    @if (SignInManager.IsSignedIn(User))
+    {
+            <li class="nav-item">
+                    
+                    <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">@User.Identity.Name</a>
+                </li>
+
+            <img src="https://img.icons8.com/material-rounded/32/null/user.png"/>
+            <li class="nav-item">
+                <form  class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+
+                    <button  type="submit" class="nav-link btn btn-link text-dark">Sair</button>
+                </form>
+            </li>
+    }
+    else
+    {
+            <li class="nav-item">
+
+                <a  asp-area="Identity" asp-page="/Account/Login">
+ 
+                                <img src="https://img.icons8.com/ios-filled/24/null/enter-2.png"/>
+                            <span>
+                                <strong>Login</strong>
+                            </span>               
+                    </a>
+
+            </li>
+
+            <li>   
+                    <a asp-area="Identity" asp-page="/Account/Register">
+                        <img src="https://img.icons8.com/android/32/null/add-user-male.png"/>
+                        <span>
+                            <strong>Nova Conta</strong>
+                        </span>               
+                </a>
+            </li>
+    }
+</ul>
