@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ITqS+BQk7zLq6EDAmsJy9oKY5gH84EIe/kqntNozTg0=",
+  "Hash": "TfPRw2d1cnVJ5Z/DtsWluA0QlkGmSBVA5PBuSJiAY7A=",
   "Source": "DevIO.App",
   "BasePath": "_content/DevIO.App",
   "Mode": "Default",
@@ -236,6 +236,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\734ed7ec-23c7-4b6a-80ea-9cbf445a6729_HTML.jpg"
+    },
+    {
+      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.App\\wwwroot\\imagens\\9784a3b1-4acf-4489-8038-a675b39b5bad_homem-aranha-mascara-003.png",
+      "SourceId": "DevIO.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.App\\wwwroot\\",
+      "BasePath": "_content/DevIO.App",
+      "RelativePath": "imagens/9784a3b1-4acf-4489-8038-a675b39b5bad_homem-aranha-mascara-003.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\9784a3b1-4acf-4489-8038-a675b39b5bad_homem-aranha-mascara-003.png"
     },
     {
       "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\DevIO.App\\wwwroot\\imagens\\9e2b29e2-f7e6-4fbf-8696-761ebd462f47_MVC5.jpg",
