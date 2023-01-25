@@ -2,7 +2,7 @@
 using EnterpriseStore.MVC.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DevIO.App.Controllers
+namespace EnterpriseStore.MVC.Controllers
 {
     public class HomeController : Controller
     {

@@ -3,7 +3,7 @@ using EnterpriseStore.MVC.Models;
 using EnterpriseStore.Service.Intefaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DevIO.App.Controllers
+namespace EnterpriseStore.MVC.Controllers
 {
     public abstract class BaseController : Controller
     {

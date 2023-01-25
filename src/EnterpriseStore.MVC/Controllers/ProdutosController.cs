@@ -7,7 +7,7 @@ using EnterpriseStore.Service.Intefaces;
 using EnterpriseStore.Service.Models;
 using EnterpriseStore.MVC.Extensions;
 
-namespace DevIO.App.Controllers
+namespace EnterpriseStore.MVC.Controllers
 {
     [Authorize]
     public class ProdutosController : BaseController

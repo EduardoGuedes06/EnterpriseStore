@@ -3,7 +3,7 @@
 	<PropertyGroup>
 		<TargetFramework>net6.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
-		<UserSecretsId>aspnet-DevIO.App-CB96C220-FEF3-4730-A438-BC4EABFA796B</UserSecretsId>
+		<UserSecretsId>aspnet-EnterpriseStore.MVC-CB96C220-FEF3-4730-A438-BC4EABFA796B</UserSecretsId>
 	</PropertyGroup>
 
 	<ItemGroup>
