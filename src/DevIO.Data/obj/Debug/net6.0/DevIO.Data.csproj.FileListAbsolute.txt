@@ -1,0 +1,30 @@
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+C:\Projetos\C#\PROJETOS Pessoais\MVC.IO\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll
