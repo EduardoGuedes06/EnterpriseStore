@@ -6,10 +6,10 @@ C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Data\ob
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Data\bin\Debug\net6.0\EnterpriseStore.Data.deps.json
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Data\bin\Debug\net6.0\EnterpriseStore.Data.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Data\bin\Debug\net6.0\EnterpriseStore.Data.pdb
-C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Data\bin\Debug\net6.0\EnterpriseStore.Service.dll
-C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Data\bin\Debug\net6.0\EnterpriseStore.Service.pdb
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Data\obj\Debug\net6.0\EnterpriseStore.Data.csproj.CopyComplete
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Data\obj\Debug\net6.0\EnterpriseStore.Data.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Data\obj\Debug\net6.0\refint\EnterpriseStore.Data.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Data\obj\Debug\net6.0\EnterpriseStore.Data.pdb
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Data\obj\Debug\net6.0\ref\EnterpriseStore.Data.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Data\bin\Debug\net6.0\EnterpriseStore.Bussines.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Data\bin\Debug\net6.0\EnterpriseStore.Bussines.pdb

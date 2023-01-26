@@ -1316,11 +1316,24 @@
           }
         }
       },
+      "EnterpriseStore.Bussines/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FluentValidation": "10.3.6"
+        },
+        "compile": {
+          "bin/placeholder/EnterpriseStore.Bussines.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EnterpriseStore.Bussines.dll": {}
+        }
+      },
       "EnterpriseStore.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "EnterpriseStore.Service": "1.0.0",
+          "EnterpriseStore.Bussines": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.3",
           "Microsoft.EntityFrameworkCore.Relational": "6.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.3"
@@ -1330,19 +1343,6 @@
         },
         "runtime": {
           "bin/placeholder/EnterpriseStore.Data.dll": {}
-        }
-      },
-      "EnterpriseStore.Service/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "FluentValidation": "10.3.6"
-        },
-        "compile": {
-          "bin/placeholder/EnterpriseStore.Service.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EnterpriseStore.Service.dll": {}
         }
       }
     }
@@ -3403,15 +3403,15 @@
         "version.txt"
       ]
     },
+    "EnterpriseStore.Bussines/1.0.0": {
+      "type": "project",
+      "path": "../EnterpriseStore.Service/EnterpriseStore.Bussines.csproj",
+      "msbuildProject": "../EnterpriseStore.Service/EnterpriseStore.Bussines.csproj"
+    },
     "EnterpriseStore.Data/1.0.0": {
       "type": "project",
       "path": "../EnterpriseStore.Data/EnterpriseStore.Data.csproj",
       "msbuildProject": "../EnterpriseStore.Data/EnterpriseStore.Data.csproj"
-    },
-    "EnterpriseStore.Service/1.0.0": {
-      "type": "project",
-      "path": "../EnterpriseStore.Service/EnterpriseStore.Service.csproj",
-      "msbuildProject": "../EnterpriseStore.Service/EnterpriseStore.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {

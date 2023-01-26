@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Service.csproj": {
-                "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Service.csproj"
+              "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Bussines.csproj": {
+                "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Bussines.csproj"
               }
             }
           }
@@ -81,12 +81,12 @@
         }
       }
     },
-    "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Service.csproj": {
+    "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Bussines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Service.csproj",
-        "projectName": "EnterpriseStore.Service",
-        "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Service.csproj",
+        "projectUniqueName": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Bussines.csproj",
+        "projectName": "EnterpriseStore.Bussines",
+        "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Bussines.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
         "outputPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\obj\\",
         "projectStyle": "PackageReference",

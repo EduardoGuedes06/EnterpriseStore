@@ -748,17 +748,17 @@
           }
         }
       },
-      "EnterpriseStore.Service/1.0.0": {
+      "EnterpriseStore.Bussines/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "FluentValidation": "10.3.6"
         },
         "compile": {
-          "bin/placeholder/EnterpriseStore.Service.dll": {}
+          "bin/placeholder/EnterpriseStore.Bussines.dll": {}
         },
         "runtime": {
-          "bin/placeholder/EnterpriseStore.Service.dll": {}
+          "bin/placeholder/EnterpriseStore.Bussines.dll": {}
         }
       }
     }
@@ -1946,15 +1946,15 @@
         "version.txt"
       ]
     },
-    "EnterpriseStore.Service/1.0.0": {
+    "EnterpriseStore.Bussines/1.0.0": {
       "type": "project",
-      "path": "../EnterpriseStore.Service/EnterpriseStore.Service.csproj",
-      "msbuildProject": "../EnterpriseStore.Service/EnterpriseStore.Service.csproj"
+      "path": "../EnterpriseStore.Service/EnterpriseStore.Bussines.csproj",
+      "msbuildProject": "../EnterpriseStore.Service/EnterpriseStore.Bussines.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "EnterpriseStore.Service >= 1.0.0",
+      "EnterpriseStore.Bussines >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Relational >= 6.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.3"
@@ -1992,8 +1992,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Service.csproj": {
-              "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Service.csproj"
+            "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Bussines.csproj": {
+              "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Bussines.csproj"
             }
           }
         }

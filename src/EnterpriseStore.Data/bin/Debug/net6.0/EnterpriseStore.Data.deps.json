@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "EnterpriseStore.Data/1.0.0": {
         "dependencies": {
-          "EnterpriseStore.Service": "1.0.0",
+          "EnterpriseStore.Bussines": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.3",
           "Microsoft.EntityFrameworkCore.Relational": "6.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.3"
@@ -467,12 +467,12 @@
           }
         }
       },
-      "EnterpriseStore.Service/1.0.0": {
+      "EnterpriseStore.Bussines/1.0.0": {
         "dependencies": {
           "FluentValidation": "10.3.6"
         },
         "runtime": {
-          "EnterpriseStore.Service.dll": {}
+          "EnterpriseStore.Bussines.dll": {}
         }
       }
     }
@@ -770,7 +770,7 @@
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
-    "EnterpriseStore.Service/1.0.0": {
+    "EnterpriseStore.Bussines/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

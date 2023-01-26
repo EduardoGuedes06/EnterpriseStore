@@ -1,0 +1,12 @@
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Service\bin\Debug\net6.0\EnterpriseStore.Bussines.deps.json
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Service\bin\Debug\net6.0\EnterpriseStore.Bussines.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Service\bin\Debug\net6.0\EnterpriseStore.Bussines.pdb
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Bussines.csproj.AssemblyReference.cache
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Bussines.AssemblyInfoInputs.cache
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Bussines.AssemblyInfo.cs
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Bussines.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Bussines.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Service\obj\Debug\net6.0\refint\EnterpriseStore.Bussines.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Bussines.pdb
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.Service\obj\Debug\net6.0\ref\EnterpriseStore.Bussines.dll
