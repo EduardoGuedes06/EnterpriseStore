@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "RUQZEJy2zClLhpITG3CrwZL9/Gf8fF0qQ8d/pG5/jdDZDINGelENvHsCDbI3ncX0hmepks54P7MumLQFv7Hfrw==",
+  "dgSpecHash": "454na5P67bY6/8TqSMES3L/Vy5dHyNsUukZHJzGB951jMHsCVJirW/ETn1PNoIPkZoxJmAqCQEZE0C42EHvDlg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Data\\EnterpriseStore.Data.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Source\\Repos\\EduardoGuedes06\\EnterpriseStore\\src\\EnterpriseStore.Data\\EnterpriseStore.Data.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

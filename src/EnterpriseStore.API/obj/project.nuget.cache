@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "44i2ZWVyrrPxUhFGMgCivUKDM1rjnJJyIBw1nIdWFNnDd8FOyK+mCwIUsVTjv4rXIzRXdAAYu8x4MqyqH77KIQ==",
+  "dgSpecHash": "sgi658SUgmFgsQmogRzoYohanDg6wI046O6ltm5UiAsoYdWxpKZfceUNArw6sRQIhfwHBUK88gIujOFXRJNFPg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.API\\EnterpriseStore.API.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Source\\Repos\\EduardoGuedes06\\EnterpriseStore\\src\\EnterpriseStore.API\\EnterpriseStore.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\aspnetcore.healthchecks.ui.client\\6.0.5\\aspnetcore.healthchecks.ui.client.6.0.5.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\aspnetcore.healthchecks.ui.core\\6.0.5\\aspnetcore.healthchecks.ui.core.6.0.5.nupkg.sha512",

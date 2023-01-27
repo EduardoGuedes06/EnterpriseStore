@@ -2,19 +2,6 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "FluentValidation/10.3.6": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/FluentValidation.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/FluentValidation.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -747,44 +734,10 @@
             "rid": "win"
           }
         }
-      },
-      "EnterpriseStore.Bussines/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "FluentValidation": "10.3.6"
-        },
-        "compile": {
-          "bin/placeholder/EnterpriseStore.Bussines.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EnterpriseStore.Bussines.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "FluentValidation/10.3.6": {
-      "sha512": "iMd370ZDx6ydm8t7bIFdRbSKX0e42lpvCtifUSbTSXOk5iKjmgl7HU0PXBhIWQAyIRi3gCwfMI9luj8H6K+byw==",
-      "type": "package",
-      "path": "fluentvalidation/10.3.6",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "fluent-validation-icon.png",
-        "fluentvalidation.10.3.6.nupkg.sha512",
-        "fluentvalidation.nuspec",
-        "lib/net5.0/FluentValidation.dll",
-        "lib/net5.0/FluentValidation.xml",
-        "lib/net6.0/FluentValidation.dll",
-        "lib/net6.0/FluentValidation.xml",
-        "lib/netstandard2.0/FluentValidation.dll",
-        "lib/netstandard2.0/FluentValidation.xml",
-        "lib/netstandard2.1/FluentValidation.dll",
-        "lib/netstandard2.1/FluentValidation.xml"
-      ]
-    },
     "Microsoft.CSharp/4.5.0": {
       "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
@@ -1945,16 +1898,10 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "EnterpriseStore.Bussines/1.0.0": {
-      "type": "project",
-      "path": "../EnterpriseStore.Service/EnterpriseStore.Bussines.csproj",
-      "msbuildProject": "../EnterpriseStore.Service/EnterpriseStore.Bussines.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "EnterpriseStore.Bussines >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Relational >= 6.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.3"
@@ -1967,11 +1914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Data\\EnterpriseStore.Data.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\EduardoGuedes06\\EnterpriseStore\\src\\EnterpriseStore.Data\\EnterpriseStore.Data.csproj",
       "projectName": "EnterpriseStore.Data",
-      "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Data\\EnterpriseStore.Data.csproj",
+      "projectPath": "C:\\Users\\PC\\Source\\Repos\\EduardoGuedes06\\EnterpriseStore\\src\\EnterpriseStore.Data\\EnterpriseStore.Data.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Data\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Source\\Repos\\EduardoGuedes06\\EnterpriseStore\\src\\EnterpriseStore.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1991,11 +1938,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Bussines.csproj": {
-              "projectPath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Bussines.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nT3xaD5om2iRFgrZVtnNFggtisx6QofLfgCUipr0QJuKaDWKSn5MGbhrZ5g4F4R2cdNNCowaY4QxbzEORW41XA==",
+  "dgSpecHash": "H6H/RYLsebAzNNyYx9BSN3XRZjCAFmzU51P2mQmgQJrdPBErMHlrZKRiB309StJWrm7pKS8Q2Oyg9Sgu0Dzgjg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Service\\EnterpriseStore.Bussines.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Source\\Repos\\EduardoGuedes06\\EnterpriseStore\\src\\EnterpriseStore.Service\\EnterpriseStore.Bussines.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
   ],
