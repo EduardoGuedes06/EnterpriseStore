@@ -1,5 +1,5 @@
 ﻿using System.Threading.Tasks;
-using EnterpriseStore.Service.Intefaces;
+using EnterpriseStore.Domain.Intefaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EnterpriseStore.MVC.Extensions

@@ -1,6 +1,5 @@
-﻿using EnterpriseStore.Service.Intefaces;
-using EnterpriseStore.Service.Models;
-using EnterpriseStore.Service.Validations;
+﻿using EnterpriseStore.Domain.Intefaces;
+using EnterpriseStore.Domain.Models;
 using System;
 using System.Threading.Tasks;
 
@@ -18,14 +17,14 @@ namespace EnterpriseStore.Service.Services
 
         public async Task Adicionar(Produto produto)
         {
-            if (!ExecutarValidacao(new ProdutoValidation(), produto)) return;
+            //if (!ExecutarValidacao(new ProdutoValidation(), produto)) return;
 
             await _produtoRepository.Adicionar(produto);
         }
 
         public async Task Atualizar(Produto produto)
         {
-            if (!ExecutarValidacao(new ProdutoValidation(), produto)) return;
+            //if (!ExecutarValidacao(new ProdutoValidation(), produto)) return;
 
             await _produtoRepository.Atualizar(produto);
         }

@@ -1,6 +1,7 @@
 ﻿
 using EnterpriseStore.Data.Context;
-using EnterpriseStore.Service.Intefaces;
+using EnterpriseStore.Domain.Intefaces;
+using EnterpriseStore.Domain.Models;
 using EnterpriseStore.Service.Models;
 using Microsoft.EntityFrameworkCore;
 

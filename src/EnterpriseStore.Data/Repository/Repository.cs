@@ -4,8 +4,8 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 using EnterpriseStore.Data.Context;
-using EnterpriseStore.Service.Intefaces;
-using EnterpriseStore.Service.Models;
+using EnterpriseStore.Domain.Intefaces;
+using EnterpriseStore.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace EnterpriseStore.Data.Repository

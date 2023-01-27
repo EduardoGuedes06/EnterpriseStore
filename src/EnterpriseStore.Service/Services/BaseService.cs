@@ -1,6 +1,6 @@
-﻿using EnterpriseStore.Service.Models;
+﻿using EnterpriseStore.Domain.Intefaces;
+using EnterpriseStore.Domain.Models;
 using EnterpriseStore.Service.Notificacoes;
-using EnterpriseStore.Service.Intefaces;
 using FluentValidation;
 using FluentValidation.Results;
 

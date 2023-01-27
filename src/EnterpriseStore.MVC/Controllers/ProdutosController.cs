@@ -3,9 +3,9 @@ using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 using EnterpriseStore.MVC.ViewModels;
-using EnterpriseStore.Service.Intefaces;
-using EnterpriseStore.Service.Models;
 using EnterpriseStore.MVC.Extensions;
+using EnterpriseStore.Domain.Models;
+using EnterpriseStore.Domain.Intefaces;
 
 namespace EnterpriseStore.MVC.Controllers
 {

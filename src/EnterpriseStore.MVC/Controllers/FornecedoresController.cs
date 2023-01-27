@@ -2,10 +2,10 @@
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
-using EnterpriseStore.Service.Intefaces;
 using EnterpriseStore.MVC.ViewModels;
-using EnterpriseStore.Service.Models;
 using EnterpriseStore.MVC.Extensions;
+using EnterpriseStore.Domain.Intefaces;
+using EnterpriseStore.Domain.Models;
 
 namespace EnterpriseStore.MVC.Controllers
 {

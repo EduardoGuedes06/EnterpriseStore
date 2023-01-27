@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using EnterpriseStore.Domain.Models;
 using EnterpriseStore.MVC.ViewModels;
 using EnterpriseStore.Service.Models;
 

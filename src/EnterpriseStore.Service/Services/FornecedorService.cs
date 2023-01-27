@@ -1,11 +1,6 @@
-﻿
-using EnterpriseStore.Service.Intefaces;
-using EnterpriseStore.Service.Models;
-using EnterpriseStore.Service.Validations;
-using System;
-using System.Linq;
-using System.Threading.Tasks;
-
+﻿using EnterpriseStore.Domain.Intefaces;
+using EnterpriseStore.Domain.Models;
+using EnterpriseStore.Domain.Validations;
 
 namespace EnterpriseStore.Service.Services
 {

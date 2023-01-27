@@ -1,4 +1,5 @@
 ﻿
+using EnterpriseStore.Domain.Models;
 using EnterpriseStore.Service.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;

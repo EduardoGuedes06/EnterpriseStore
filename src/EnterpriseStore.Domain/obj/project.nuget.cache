@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jCuxHnJi2Eo5lKGCW5QvSe5jQwonzwbaATy+HOZzDBJjuwJcmUJ7cb832RMGZjQLnN1O1sbDKgVqYFbavEv6vw==",
+  "dgSpecHash": "M46hgzDZl125mC3lRzAdFsrjvU0peT8XrKkJcbzezsBOAMHHkeTaTSyv2jf5mY1A/uD1dvPl+zfE3f3BWOmsmA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Domain\\EnterpriseStore.Service.csproj",
+  "projectFilePath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.Domain\\EnterpriseStore.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
   ],
   "logs": []
 }

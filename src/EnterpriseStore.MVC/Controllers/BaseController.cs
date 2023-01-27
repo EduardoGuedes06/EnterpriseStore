@@ -1,6 +1,6 @@
 ﻿
+using EnterpriseStore.Domain.Intefaces;
 using EnterpriseStore.MVC.Models;
-using EnterpriseStore.Service.Intefaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EnterpriseStore.MVC.Controllers

@@ -3,10 +3,10 @@ C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\EnterpriseStore.MVC.AssemblyInfoInputs.cache
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\EnterpriseStore.MVC.AssemblyInfo.cs
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\EnterpriseStore.MVC.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\EnterpriseStore.MVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\EnterpriseStore.MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\EnterpriseStore.MVC.RazorAssemblyInfo.cache
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\EnterpriseStore.MVC.RazorAssemblyInfo.cs
-C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\EnterpriseStore.MVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\appsettings.Development.json
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\appsettings.json
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\appsettings.Production.json
@@ -308,6 +308,8 @@ C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\AutoMapper.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\FluentValidation.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\Humanizer.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -386,8 +388,10 @@ C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\EnterpriseStore.Data.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\EnterpriseStore.Domain.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\EnterpriseStore.Service.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\EnterpriseStore.Data.pdb
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\EnterpriseStore.Domain.pdb
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\EnterpriseStore.Service.pdb
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\staticwebassets.build.json
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\staticwebassets.development.json
