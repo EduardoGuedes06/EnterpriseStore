@@ -1,6 +1,7 @@
 ﻿using EnterpriseStore.Domain.Intefaces;
 using EnterpriseStore.Domain.Models;
 using EnterpriseStore.Domain.Validations;
+using EnterpriseStore.Service.Validations;
 
 namespace EnterpriseStore.Service.Services
 {

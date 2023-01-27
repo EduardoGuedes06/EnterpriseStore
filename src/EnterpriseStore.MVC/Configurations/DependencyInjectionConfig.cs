@@ -2,9 +2,9 @@
 using EnterpriseStore.Data.Context;
 using EnterpriseStore.Data.Repository;
 using EnterpriseStore.Domain.Intefaces;
+using EnterpriseStore.Domain.Notificacoes;
 using EnterpriseStore.MVC.Extensions;
 using EnterpriseStore.MVC.Services;
-using EnterpriseStore.Service.Notificacoes;
 using EnterpriseStore.Service.Services;
 using Microsoft.AspNetCore.Mvc.DataAnnotations;
 

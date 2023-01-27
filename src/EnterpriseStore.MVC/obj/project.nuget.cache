@@ -1,14 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ymu566iOJWoxhr9p6CbZZYJvCRScZQuFLAEDLVOQZByYHieSJ6cLMcKwNZ5IR98Uc69nG7KoS20ahsPZX8+9hg==",
+  "dgSpecHash": "Ou/4p97TkAnEY8PRUkD8YDEqDKTdQpRX3g1vRQ3JqqZzGJz7Wb1h/EJ7Jmu2nL450QTPgeGDKVdjf+ZvMiWWQw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\EnterpriseStore.MVC.csproj",
+  "projectFilePath": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\EnterpriseStore.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.3\\microsoft.aspnetcore.cryptography.internal.6.0.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.3\\microsoft.aspnetcore.cryptography.keyderivation.6.0.3.nupkg.sha512",

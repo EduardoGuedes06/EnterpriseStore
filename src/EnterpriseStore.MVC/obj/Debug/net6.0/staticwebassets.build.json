@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "08eqaTiOOPVAATxjgZ1OFp9avIIuY4ud4LzxQrtyVU8=",
+  "Hash": "cbo/Hz3CMsoE0CuFPC7JfHwG765YAvLKy5zKzuD5fSY=",
   "Source": "EnterpriseStore.MVC",
   "BasePath": "_content/EnterpriseStore.MVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EnterpriseStore.MVC\\wwwroot",
       "Source": "EnterpriseStore.MVC",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EnterpriseStore.MVC.styles.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EnterpriseStore.MVC.styles.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "EnterpriseStore.MVC.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EnterpriseStore.MVC.styles.css"
+      "OriginalItemSpec": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EnterpriseStore.MVC.styles.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EnterpriseStore.MVC.bundle.scp.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EnterpriseStore.MVC.bundle.scp.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "EnterpriseStore.MVC.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EnterpriseStore.MVC.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EnterpriseStore.MVC.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\css\\site.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\favicon.ico",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\1dbbd291-279f-4743-a781-0c92a482bc2b_JQuery.jpg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\1dbbd291-279f-4743-a781-0c92a482bc2b_JQuery.jpg",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/1dbbd291-279f-4743-a781-0c92a482bc2b_JQuery.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\1dbbd291-279f-4743-a781-0c92a482bc2b_JQuery.jpg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\1e723e03-a406-442b-b2c8-f4c561681379_CSS.jpg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\1e723e03-a406-442b-b2c8-f4c561681379_CSS.jpg",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/1e723e03-a406-442b-b2c8-f4c561681379_CSS.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\1e723e03-a406-442b-b2c8-f4c561681379_CSS.jpg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\1f11c36b-8e3b-4aa6-b4e2-84ad298e7f9c_DEM331TD1Image-LSide.png",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\1f11c36b-8e3b-4aa6-b4e2-84ad298e7f9c_DEM331TD1Image-LSide.png",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/1f11c36b-8e3b-4aa6-b4e2-84ad298e7f9c_DEM331TD1Image-LSide.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\1f11c36b-8e3b-4aa6-b4e2-84ad298e7f9c_DEM331TD1Image-LSide.png"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\2994c744-02d5-4b4a-98d1-e04ae8709e5c_Java.jpg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\2994c744-02d5-4b4a-98d1-e04ae8709e5c_Java.jpg",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/2994c744-02d5-4b4a-98d1-e04ae8709e5c_Java.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\2994c744-02d5-4b4a-98d1-e04ae8709e5c_Java.jpg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\39279e57-5ee9-496a-86dc-84176803e5c9_Java.jpg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\39279e57-5ee9-496a-86dc-84176803e5c9_Java.jpg",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/39279e57-5ee9-496a-86dc-84176803e5c9_Java.jpg",
       "AssetKind": "All",
@@ -170,10 +170,27 @@
       "OriginalItemSpec": "wwwroot\\imagens\\39279e57-5ee9-496a-86dc-84176803e5c9_Java.jpg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\4677e4a2-c57e-42f9-8cef-7ea55aa92c33_Regex.jpg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\436b6f86-5ee8-4e00-b6cc-a39e2ad34e55_Galaxy A23.png",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "BasePath": "_content/EnterpriseStore.MVC",
+      "RelativePath": "imagens/436b6f86-5ee8-4e00-b6cc-a39e2ad34e55_Galaxy A23.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\436b6f86-5ee8-4e00-b6cc-a39e2ad34e55_Galaxy A23.png"
+    },
+    {
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\4677e4a2-c57e-42f9-8cef-7ea55aa92c33_Regex.jpg",
+      "SourceId": "EnterpriseStore.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/4677e4a2-c57e-42f9-8cef-7ea55aa92c33_Regex.jpg",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\4677e4a2-c57e-42f9-8cef-7ea55aa92c33_Regex.jpg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\6ba49f3f-f55a-4505-86c2-f4e58ad86c62_Python.jpg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\6ba49f3f-f55a-4505-86c2-f4e58ad86c62_Python.jpg",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/6ba49f3f-f55a-4505-86c2-f4e58ad86c62_Python.jpg",
       "AssetKind": "All",
@@ -204,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\6ba49f3f-f55a-4505-86c2-f4e58ad86c62_Python.jpg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\6dc2f7fa-721a-4e3c-9976-b1ee1ec1e9ef_TE_90S_plus_Pt_0001.png",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\6dc2f7fa-721a-4e3c-9976-b1ee1ec1e9ef_TE_90S_plus_Pt_0001.png",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/6dc2f7fa-721a-4e3c-9976-b1ee1ec1e9ef_TE_90S_plus_Pt_0001.png",
       "AssetKind": "All",
@@ -221,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\6dc2f7fa-721a-4e3c-9976-b1ee1ec1e9ef_TE_90S_plus_Pt_0001.png"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\734ed7ec-23c7-4b6a-80ea-9cbf445a6729_HTML.jpg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\734ed7ec-23c7-4b6a-80ea-9cbf445a6729_HTML.jpg",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/734ed7ec-23c7-4b6a-80ea-9cbf445a6729_HTML.jpg",
       "AssetKind": "All",
@@ -238,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\734ed7ec-23c7-4b6a-80ea-9cbf445a6729_HTML.jpg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\76249a21-15ee-474c-ad22-7c784dd893a8_7800-02.jpg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\76249a21-15ee-474c-ad22-7c784dd893a8_7800-02.jpg",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/76249a21-15ee-474c-ad22-7c784dd893a8_7800-02.jpg",
       "AssetKind": "All",
@@ -255,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\76249a21-15ee-474c-ad22-7c784dd893a8_7800-02.jpg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\9784a3b1-4acf-4489-8038-a675b39b5bad_homem-aranha-mascara-003.png",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\9784a3b1-4acf-4489-8038-a675b39b5bad_homem-aranha-mascara-003.png",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/9784a3b1-4acf-4489-8038-a675b39b5bad_homem-aranha-mascara-003.png",
       "AssetKind": "All",
@@ -272,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\9784a3b1-4acf-4489-8038-a675b39b5bad_homem-aranha-mascara-003.png"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\9e2b29e2-f7e6-4fbf-8696-761ebd462f47_MVC5.jpg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\9e2b29e2-f7e6-4fbf-8696-761ebd462f47_MVC5.jpg",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/9e2b29e2-f7e6-4fbf-8696-761ebd462f47_MVC5.jpg",
       "AssetKind": "All",
@@ -289,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\9e2b29e2-f7e6-4fbf-8696-761ebd462f47_MVC5.jpg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\cc0a711a-a172-48a1-ab69-b074b572321b_Razor.jpg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\cc0a711a-a172-48a1-ab69-b074b572321b_Razor.jpg",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/cc0a711a-a172-48a1-ab69-b074b572321b_Razor.jpg",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\cc0a711a-a172-48a1-ab69-b074b572321b_Razor.jpg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\d3254928-9095-4cc4-873b-d03ce2f0f680_nokia.png",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\d3254928-9095-4cc4-873b-d03ce2f0f680_nokia.png",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/d3254928-9095-4cc4-873b-d03ce2f0f680_nokia.png",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\d3254928-9095-4cc4-873b-d03ce2f0f680_nokia.png"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\eae093c6-28a4-4a96-bb16-a8f411a7a2f6_CSS.jpg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\eae093c6-28a4-4a96-bb16-a8f411a7a2f6_CSS.jpg",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "imagens/eae093c6-28a4-4a96-bb16-a8f411a7a2f6_CSS.jpg",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\eae093c6-28a4-4a96-bb16-a8f411a7a2f6_CSS.jpg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\js\\site.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/css/all.min.css",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\all.min.css"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.eot",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.svg",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.eot",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.svg",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.eot",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.svg",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/font-awesome/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1479,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1496,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1513,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1530,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1547,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1564,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1581,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "EnterpriseStore.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projetos\\C#\\PROJETOS Pessoais\\EnterpriseStore 1.0\\src\\EnterpriseStore.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\wwwroot\\",
       "BasePath": "_content/EnterpriseStore.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
