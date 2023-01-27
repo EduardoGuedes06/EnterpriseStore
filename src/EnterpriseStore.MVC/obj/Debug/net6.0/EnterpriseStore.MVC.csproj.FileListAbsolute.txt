@@ -386,9 +386,7 @@ C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\EnterpriseStore.Data.dll
-C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\EnterpriseStore.Service.dll
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\EnterpriseStore.Data.pdb
-C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\EnterpriseStore.Service.pdb
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\staticwebassets.build.json
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\staticwebassets.development.json
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
@@ -400,3 +398,5 @@ C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\EnterpriseStore.MVC.pdb
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\EnterpriseStore.MVC.genruntimeconfig.cache
 C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\obj\Debug\net6.0\ref\EnterpriseStore.MVC.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\EnterpriseStore.Bussines.dll
+C:\Projetos\C#\PROJETOS Pessoais\EnterpriseStore 1.0\src\EnterpriseStore.MVC\bin\Debug\net6.0\EnterpriseStore.Bussines.pdb
