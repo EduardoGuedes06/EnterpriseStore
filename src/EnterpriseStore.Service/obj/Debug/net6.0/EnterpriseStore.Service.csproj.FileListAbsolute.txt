@@ -43,3 +43,18 @@ C:\Projeto Enterprise\Enterprise DDD\EnterpriseStore\src\EnterpriseStore.Service
 C:\Projeto Enterprise\Enterprise DDD\EnterpriseStore\src\EnterpriseStore.Service\obj\Debug\net6.0\refint\EnterpriseStore.Service.dll
 C:\Projeto Enterprise\Enterprise DDD\EnterpriseStore\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Service.pdb
 C:\Projeto Enterprise\Enterprise DDD\EnterpriseStore\src\EnterpriseStore.Service\obj\Debug\net6.0\ref\EnterpriseStore.Service.dll
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\bin\Debug\net6.0\EnterpriseStore.Service.deps.json
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\bin\Debug\net6.0\EnterpriseStore.Service.dll
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\bin\Debug\net6.0\EnterpriseStore.Service.pdb
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\bin\Debug\net6.0\EnterpriseStore.Domain.dll
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\bin\Debug\net6.0\EnterpriseStore.Domain.pdb
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Service.csproj.AssemblyReference.cache
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Service.AssemblyInfoInputs.cache
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Service.AssemblyInfo.cs
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Service.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Service.csproj.CopyComplete
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Service.dll
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\obj\Debug\net6.0\refint\EnterpriseStore.Service.dll
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\obj\Debug\net6.0\EnterpriseStore.Service.pdb
+C:\Projetos\C#\PROJETOS Pessoais\Projeto Enterprise 1.0\EnterpriseStore\src\EnterpriseStore.Service\obj\Debug\net6.0\ref\EnterpriseStore.Service.dll

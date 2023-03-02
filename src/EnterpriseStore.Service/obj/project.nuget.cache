@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yyNkkoNe+/IaTHtZyoMmyuLwAtJ862XFkzX31dfDufURc0go6oXCd1MxhiAQmJULrDO+yM7Jlvmc510jALBuew==",
+  "dgSpecHash": "kvdfTyCBzBd2vtRCUb7TdTsHLc6r1zvPaVmR2TupbGXqq8fvrosl2C72kPT7bPY839QuedQFhxqc9kTg8DYWug==",
   "success": true,
-  "projectFilePath": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.Service\\EnterpriseStore.Service.csproj",
+  "projectFilePath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\Projeto Enterprise 1.0\\EnterpriseStore\\src\\EnterpriseStore.Service\\EnterpriseStore.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
   ],

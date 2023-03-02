@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ou/4p97TkAnEY8PRUkD8YDEqDKTdQpRX3g1vRQ3JqqZzGJz7Wb1h/EJ7Jmu2nL450QTPgeGDKVdjf+ZvMiWWQw==",
+  "dgSpecHash": "WUhBD0TaKjoe5eD0mWWFQTuVTRQWID66D3rhqmsQ9CFfusc0zOc6QoUO/e4PC1nObKiib4aKZbql6w7CDTjRyQ==",
   "success": true,
-  "projectFilePath": "C:\\Projeto Enterprise\\Enterprise DDD\\EnterpriseStore\\src\\EnterpriseStore.MVC\\EnterpriseStore.MVC.csproj",
+  "projectFilePath": "C:\\Projetos\\C#\\PROJETOS Pessoais\\Projeto Enterprise 1.0\\EnterpriseStore\\src\\EnterpriseStore.MVC\\EnterpriseStore.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
